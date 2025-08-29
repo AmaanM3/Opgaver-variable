@@ -1,0 +1,10 @@
+String student = "Amaan";
+int daysInAYear = 365;
+String by = "København";
+boolean friday = true;
+int timerInDay = 60*24;
+float dato = 22.12;
+println("Hej, jeg heddder "+student);
+boolean monday = false;
+float alder = 2.2 + 33;
+char studie = 'S';
